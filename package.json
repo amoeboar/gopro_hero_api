@@ -1,0 +1,44 @@
+{
+  "name": "gopro_hero_api",
+  "version": "1.0.3",
+  "description": "Control you GoPro camera remotely with the Node.js GoPro API. Aiming to be the most comprehensive api possible; you can access a wide array of settings, power your device on or off and, most importantly, backup your videos/images remotely over wifi.",
+  "main": "index",
+  "author": {
+    "name": "Chris GW Green"
+  },
+  "license": "The MIT License (MIT)",
+  "dependencies": {
+    "when": "3.2.2",
+    "request": "2.36.0",
+    "cheerio": "0.16.0"
+  },
+  "keywords": [
+    "gopro",
+    "hero",
+    "camera",
+    "api",
+    "remote",
+    "nodejs",
+    "javascript"
+  ],
+  "_id": "gopro_hero_api@1.0.3",
+  "_shasum": "ccba2a39395a8c712da1fc154db9301b7beeaba5",
+  "_from": "gopro_hero_api@*",
+  "_resolved": "https://registry.npmjs.org/gopro_hero_api/-/gopro_hero_api-1.0.3.tgz",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "chrisgwgreen",
+    "email": "chrisgwgreen@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "chrisgwgreen",
+      "email": "chrisgwgreen@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "98e75c38da433768a079657930d9ab70ba57c372",
+    "tarball": "http://registry.npmjs.org/gopro_hero_api/-/gopro_hero_api-1.0.3.tgz"
+  },
+  "directories": {}
+}
